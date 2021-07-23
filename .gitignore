@@ -56,3 +56,6 @@ Intermediate/*
 Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/FirstPersonBP/Blueprints/Slime_Crawl_Character.uasset
+Content/FirstPersonBP/Blueprints/UI/Slime_Crawl_Main_Widget.uasset
+Content/FirstPersonBP/Blueprints/Weapons_BP/Weapon_Default.uasset
